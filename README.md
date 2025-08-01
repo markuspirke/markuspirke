@@ -1,9 +1,12 @@
 Hi out there!
 
-I am Markus. Currently I am doing a PhD in astro-particle physics at ECAP in Erlangen. In parallel I am getting an education as a system administrator.
+I am Markus. Currently I am doing a PhD in astroparticle physics at ECAP in Erlangen. In parallel I am getting an education as a system administrator.
+
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0009-0006-3888-6160)
 
 - 🔭 I’m currently working on advancing statistical methods for gamma-ray astrophysics.
 - 🌱 I’m currently learning a lot about our changing climate system.
+- 🏔 To take a step back from the daily grind, I regularly go out into the mountains.
 
 ### Some of my favourite tools
 
